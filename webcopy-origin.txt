@@ -1,0 +1,324 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap
+File Name: C:\Downloaded Web Sites\pxdraft.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\s\poppins\v21\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/favicon.ico
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/index-02.html
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\index-02.html
+Content Type: text/html
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/avtar-01.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\avtar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/avtar.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\avtar.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/blog-1.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/blog-2.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/blog-3.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/home-bg-2.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\home-bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-1.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-2.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-3.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-4.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-5.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-6.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-7.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/portfolio-8.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\portfolio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/skill-box.png
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\skill-box.png
+Content Type: image/png
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/team-1.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/team-2.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/team-3.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/img/team-4.jpg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\img\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/js/custom.js
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\js\jquery-3.2.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/js/jquery-migrate-3.0.0.min.js
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\js\jquery-migrate-3.0.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/appear/jquery.appear.js
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\appear\jquery.appear.js
+Content Type: application/x-javascript
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/bootstrap/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\bootstrap\js\bootstrap.js
+Content Type: application/x-javascript
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/bootstrap/js/popper.min.js
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\bootstrap\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/et-line/fonts/et-line.eot
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\et-line\fonts\et-line.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/et-line/fonts/et-line.eot?
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\et-line\fonts\et-line-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/et-line/fonts/et-line.svg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\et-line\fonts\et-line.svg
+Content Type: image/svg+xml
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/et-line/fonts/et-line.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\et-line\fonts\et-line.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/et-line/fonts/et-line.woff
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\et-line\fonts\et-line.woff
+Content Type: application/font-woff
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/et-line/style.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\et-line\style.css
+Content Type: text/css
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/magnific/magnific-popup.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\magnific\magnific-popup.css
+Content Type: text/css
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/owl-carousel/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\owl-carousel\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/themify-icons/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\themify-icons\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/themify-icons/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\themify-icons\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/themify-icons/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\themify-icons\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/themify-icons/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\themify-icons\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/themify-icons/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\themify-icons\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/plugin/themify-icons/themify-icons.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\plugin\themify-icons\themify-icons.css
+Content Type: text/css
+
+Uri: https://pxdraft.com/themeforest/dustin/dustin/static/style/master.css
+File Name: C:\Downloaded Web Sites\pxdraft.com\themeforest\dustin\dustin\static\style\master.css
+Content Type: text/css
+
